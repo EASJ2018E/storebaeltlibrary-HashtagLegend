@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en overkørsel
+            Hvis der er anvendt brobizz gives der 5% rabat på overkørslen
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Køretøjstype">
+            <summary>
+            Retunerer køretøjstypen
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Nummerpladelængde">
+            <summary>
+            Sikrer at nummerplader ikke kan indeholde mere end 7 tegn!
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en overkørsel
+            Det skla angives hvorvidt der er anvendt brobizz eller ej: true/false
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Køretøjstype">
+            <summary>
+            Retunerer en default køretøjstype, skal overrides i en specialiseret klasse
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en overkørsel
+            Hvis der er anvendt brobizz gives der 5% rabat på overkørslen
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Køretøjstype">
+            <summary>
+            Retunerer køretøjstypen
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

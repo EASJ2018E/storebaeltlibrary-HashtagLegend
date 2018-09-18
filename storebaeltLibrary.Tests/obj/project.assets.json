@@ -1611,6 +1611,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "storebaeltLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/storebaeltLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/storebaeltLibrary.dll": {}
+        }
       }
     }
   },
@@ -5683,6 +5693,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "storebaeltLibrary/1.0.0": {
+      "type": "project",
+      "path": "../storebaeltLibrary/storebaeltLibrary.csproj",
+      "msbuildProject": "../storebaeltLibrary/storebaeltLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5690,7 +5705,8 @@
       "MSTest.TestAdapter >= 1.2.1",
       "MSTest.TestFramework >= 1.2.1",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "storebaeltLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5722,7 +5738,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\source\\storebaeltlibrary-HashtagLegend\\storebaeltLibrary\\storebaeltLibrary.csproj": {
+              "projectPath": "D:\\source\\storebaeltlibrary-HashtagLegend\\storebaeltLibrary\\storebaeltLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5747,7 +5767,6 @@
             "version": "[15.7.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

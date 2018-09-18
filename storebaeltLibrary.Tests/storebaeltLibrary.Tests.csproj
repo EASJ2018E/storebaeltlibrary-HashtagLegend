@@ -16,4 +16,10 @@
     <ProjectReference Include="..\storebaeltLibrary\storebaeltLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="BilletLibrary">
+      <HintPath>..\storebaeltLibrary\dll\BilletLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

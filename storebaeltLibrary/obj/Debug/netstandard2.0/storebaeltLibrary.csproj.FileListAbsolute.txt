@@ -1,0 +1,12 @@
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\bin\Debug\netstandard2.0\storebaeltLibrary.deps.json
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\bin\Debug\netstandard2.0\storebaeltLibrary.dll
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\bin\Debug\netstandard2.0\storebaeltLibrary.pdb
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.csprojAssemblyReference.cache
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.csproj.CoreCompileInputs.cache
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.AssemblyInfoInputs.cache
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.AssemblyInfo.cs
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.dll
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.pdb
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\bin\Debug\netstandard2.0\BilletLibrary.xml
+D:\source\storebaeltlibrary-HashtagLegend\storebaeltLibrary\obj\Debug\netstandard2.0\storebaeltLibrary.csproj.CopyComplete
